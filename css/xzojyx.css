@@ -1,0 +1,14 @@
+.standaloneErrorPage {
+  color: red;
+  text-transform: uppercase;
+  font-style: bold;
+   font-size: 30px;
+  
+  
+}
+.suggestionText {
+  text-transform: uppercase;
+  font-style: bold;
+  font-size: 25px;
+}
+
